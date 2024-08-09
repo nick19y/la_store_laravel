@@ -1,0 +1,28 @@
+.main-content{
+    display: flex;
+    justify-content: center;
+}
+.logo-div{
+    margin-top: 3em;
+    height: 15em;
+    align-self: center;
+    margin-bottom: 2em;
+}
+.form-content{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+}
+.register-message{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1em;
+}
+.register-message a{
+    margin-left: 0.5em;
+}
+.black-btn{
+    margin-top: 1em;
+}
